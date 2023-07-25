@@ -1,3 +1,5 @@
+[![pt-br](https://img.shields.io/badge/language-pt--br-green)](https://github.com/ikkidominico/ikkidominico/blob/main/README.pt-br.md)
+
 ### Hi there 👋
 
 <!--
