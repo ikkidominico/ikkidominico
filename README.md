@@ -1,6 +1,6 @@
 [![pt-br](https://img.shields.io/badge/language-pt--br-green)](https://github.com/ikkidominico/ikkidominico/blob/main/README.pt-br.md)
 
-### ⚠️ Under Maintenance!
+### ⚠️ Under maintenance!
 
 <!--
 **ikkidominico/ikkidominico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
